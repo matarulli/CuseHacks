@@ -1,13 +1,13 @@
 # Sample Snack app
 
-Welcome to Expo!
+Cuse Hacks 2019 Application
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+  Within 24 hours, we were tasked to build something innovative. 
+  With no idea what we were in for, we decided to make this application, Ad Astra.
 
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+Using expo to make react native programming easier, we made an application that is meant to display daily facts about space. Ranging from world news, private companies or celestial bodies, we wanted to appeal to the broadest range of people.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+We featured original background art and logo to support our brand.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+We hope this encourages a public interest in space and fosters a positive community for the future.
