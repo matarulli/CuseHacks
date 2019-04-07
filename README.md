@@ -1,4 +1,4 @@
-# Sample Snack app
+# Cuse Hacks
 
 Cuse Hacks 2019 Application
 
